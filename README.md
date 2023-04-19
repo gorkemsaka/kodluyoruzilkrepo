@@ -3,19 +3,19 @@ Kodluyoruz repo acma denemesi
 
 ## Installation 
 Oncelikle projeyi clonluyoruz.
-''' https://github.com/gorkemsaka/kodluyoruzilkrepo.git '''
+``` https://github.com/gorkemsaka/kodluyoruzilkrepo.git ```
 
 ## Usage
 Projeyi klonladiktan sonra VSCode ile aciyoruz
 
 MacOS icin
-'''.code ''''
+```.code ```
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
-(MIT)[https://choosealicense.com/licenses/mit/]
+[MIT] (https://choosealicense.com/licenses/mit/)
 
 
 
